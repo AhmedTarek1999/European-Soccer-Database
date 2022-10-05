@@ -24,6 +24,10 @@ This is an European Soccer dataset for Seasons 2008 to 2016. The dataset contain
 * Over 25,000 Matches
 * Over 200 Teams
 
+## Dataset
+
+https://www.kaggle.com/datasets/hugomathien/soccer
+
 ## Question(s) for Analysis
 
 1. Which home/away teams had the most wins in all leagues from 2008 to 2016?
